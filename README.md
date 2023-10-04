@@ -23,8 +23,7 @@
     constantemente mis habilidades en programación y desarrollo web.
     </p>
     <p style='font-size: 1rem;color: #777;'>
-    Actualmente soy mentor y recrutier en Eagle-Stone una StartUp con presencia en latinoamérica 
-    y España.
+    Actualmente soy mentor y recrutier en Eagle-Stone una StartUp con presencia en latinoamérica.
     </p>
     <p style='font-size: 1rem;color: #777;'>
     Aunque no tengo una formación formal en el campo, he invertido tiempo y 
