@@ -1,5 +1,5 @@
 <h1 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Bienvenid@s !!!</h1>
-<h2 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Soy Keiko Tadashi</h2>
+<!-- <h2 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Soy Keiko Tadashi</h2> -->
 
 ![](https://komarev.com/ghpvc/?username=k-tadashi-github-ktadashi&color=blue&style=plastic&label=Profile+View)
     <a
