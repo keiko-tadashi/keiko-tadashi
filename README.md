@@ -2,7 +2,11 @@
 <!-- <h2 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Soy Keiko Tadashi</h2> -->
 <section>
 
-![](https://komarev.com/ghpvc/?username=k-tadashi-github-ktadashi&color=blue&style=plastic&label=Profile+View)
+![](https://komarev.com/ghpvc/?username=keiko-tadashi-github-ktadashi&color=blue&style=plastic&label=Profile+View)
+
+<!-- ### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/> -->
+
 
 <h2 align="center">Mis Habilidades Técnicas</h2>
 <br>
@@ -25,8 +29,8 @@
 <img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" />
    <br><br><br>
    <div>
-   <a href="https://github.com/Kapelu/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&card_width=850" />
+   <a href="https://github.com/keiko-tadashi/github-readme-stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiko-tadashi&custom_title=Lenguajes%20mas%20usados&theme=calm&card_width=850" />
    </div>
 </a>
 </section>
