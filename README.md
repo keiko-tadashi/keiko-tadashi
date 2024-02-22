@@ -4,22 +4,21 @@
 <!-- <h2 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Soy Keiko Tadashi</h2> -->
 
 </br>
-<p align="center" style='margin: 0; font-size: 1.5rem; text-align: center; color: #777646;'>
-<strong>¡Estamos aquí para hacer que tus ideas cobren vida en la web!</strong>
-</P></br>
+
+## ¡Estamos aquí para hacer que tus ideas cobren vida en la web!
+
 <p align="center" style='margin: 0; font-size: 1rem; text-align: justify; color: #777646;'>
 <i>Como empresa de desarrollo web, somos apasionados por la excelencia en el código y comprometidos con la entrega de soluciones de alta calidad. Nos enorgullece trabajar mano a mano con nuestros clientes, comprendiendo sus necesidades y superando sus expectativas. Nuestro objetivo es ser tu aliado confiable en el desarrollo web, proporcionando soluciones sólidas y contribuyendo al éxito de tu proyecto. 
 </i></p>
 </br >
-<p align="center" style='margin: 0; font-size: 1.5rem;'>
-<i><strong>Nuestra visión</strong></p>
-<p align="center" style='margin: 0; text-align: justify;'> Es crear experiencias digitales impactantes y funcionales que impulsen el éxito de nuestros clientes.</i>
-</p>
-</br>
-<p align="center" style='margin: 0; font-size: 1.5rem;'>
-<i><strong>Nuestros valores</strong></i></p>
-<p align="center" style='margin: 0; text-align: justify;'> Se centran en la calidad, la transparencia y la colaboración. Buscamos constantemente la mejora y la innovación, adhiriéndonos a buenas prácticas de desarrollo y utilizando tecnologías modernas como HTML, CSS, React, Next, y gestionamos nuestros proyectos eficientemente con Git y GitHub.
-</p>
+
+* ### Nuestra visión
+
+    <i>Es crear experiencias digitales impactantes y funcionales que impulsen el éxito de nuestros clientes.</i>
+
+* ### Nuestros valores
+
+    <i>Se centran en la calidad, la transparencia y la colaboración. Buscamos constantemente la mejora y la innovación, adhiriéndonos a buenas prácticas de desarrollo y utilizando tecnologías modernas como HTML, CSS, React, Next, y gestionamos nuestros proyectos eficientemente con Git y GitHub.</i>
 
 
 <!--
