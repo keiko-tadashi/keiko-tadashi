@@ -23,7 +23,7 @@
 <!--
 <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
 -->
-
+<section>
 <h2 align="center">Nuestras Habilidades Técnicas</h2>
 <br>
 <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu"/>
@@ -49,3 +49,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&card_width=850" />
    </div>
 </a>
+</section>
