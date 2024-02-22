@@ -13,11 +13,11 @@
 
 ### ✅ Nuestra visión
 
-    <i>Es crear experiencias digitales impactantes y funcionales que impulsen el éxito de nuestros clientes.</i>
+<i>Es crear experiencias digitales impactantes y funcionales que impulsen el éxito de nuestros clientes.</i>
 
 ### ✅ Nuestros valores
 
-    <i>Se centran en la calidad, la transparencia y la colaboración. Buscamos constantemente la mejora y la innovación, adhiriéndonos a buenas prácticas de desarrollo y utilizando tecnologías modernas como HTML, CSS, React, Next, y gestionamos nuestros proyectos eficientemente con Git y GitHub.</i>
+<i>Se centran en la calidad, la transparencia y la colaboración. Buscamos constantemente la mejora y la innovación, adhiriéndonos a buenas prácticas de desarrollo y utilizando tecnologías modernas como HTML, CSS, React, Next, y gestionamos nuestros proyectos eficientemente con Git y GitHub.</i>
 
 
 <!--
