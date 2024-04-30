@@ -20,21 +20,21 @@
 <section>
 <h2 align="center">Nuestras Habilidades Técnicas</h2>
 <br>
-<img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu"/>
-<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
-<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
-<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-<img src="https://img.shields.io/badge/-typescript.js-333333?style=flat&logo=typescript" />
-<img src="https://img.shields.io/badge/-bootrstap.js-333333?style=flat&logo=bootstrap" />
-<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-<img src="https://img.shields.io/badge/-sass.js-333333?style=flat&logo=sass" />
-<img src="https://img.shields.io/badge/-less.js-333333?style=flat&logo=less" />
-<img src="https://img.shields.io/badge/-express.js-333333?style=flat&logo=express" />
-<img src="https://img.shields.io/badge/-axios.js-333333?style=flat&logo=axios" />
-<img src="https://img.shields.io/badge/-nomgodb.js-333333?style=flat&logo=mongodb" />
-<img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" />
-<img src="https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm" />
-<img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" />
+<img src='https://img.shields.io/badge/-Ubuntu-333333?style=plastic&logo=Ubuntu' />
+<img src='https://img.shields.io/badge/-BashScript-333333?style=plastic&logo=gnubash' />
+<img src='https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5' />
+<img src='https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6' />
+<img src='https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript' />
+<img src='https://img.shields.io/badge/-Markdown-333333?style=plastic&logo=markdown' />
+<img src='https://img.shields.io/badge/-Mdx-333333?style=plastic&logo=mdx' />
+<img src='https://img.shields.io/badge/-Typescript-333333?style=plastic&logo=typescript' />
+<img src='https://img.shields.io/badge/-Tailwind-333333?style=plastic&logo=tailwind-css' />
+<img src='https://img.shields.io/badge/-Git-333333?style=plastic&logo=git' />
+<img src='https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github' />
+<img src='https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js' />
+<img src='https://img.shields.io/badge/-Express.js-333333?style=plastic&logo=express' />
+<img src='https://img.shields.io/badge/-Axios.js-333333?style=plastic&logo=axios' />
+<img src='https://img.shields.io/badge/-Mongodb.js-333333?style=plastic&logo=mongodb' />
+<img src='https://img.shields.io/badge/-npm.js-333333?style=plastic&logo=npm' />
+<img src='https://img.shields.io/badge/-Figma-333333?style=plastic&logo=Figma' />
 </section>
