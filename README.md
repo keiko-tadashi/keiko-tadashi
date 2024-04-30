@@ -1,7 +1,4 @@
-![](https://komarev.com/ghpvc/?username=keiko-tadashi-github-ktadashi&color=blue&style=plastic&label=Profile+View)
-
 <h1 align="center" style='margin: 0; font-size: 3rem; text-align: center; color: #7776d6;'>Bienvenid@s !!!</h1>
-<!-- <h2 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Soy Keiko Tadashi</h2> -->
 
 </br>
 <p align="center" style='margin: 0; font-size: 1.5rem; text-align: center; color: #777646;'>
@@ -20,9 +17,6 @@
 <i>Se centran en la calidad, la transparencia y la colaboración. Buscamos constantemente la mejora y la innovación, adhiriéndonos a buenas prácticas de desarrollo y utilizando tecnologías modernas como HTML, CSS, React, Next, y gestionamos nuestros proyectos eficientemente con Git y GitHub.</i>
 
 
-<!--
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
--->
 <section>
 <h2 align="center">Nuestras Habilidades Técnicas</h2>
 <br>
@@ -32,7 +26,7 @@
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-<!-- <img src="https://img.shields.io/badge/-typescript.js-333333?style=flat&logo=typescript" /> -->
+<img src="https://img.shields.io/badge/-typescript.js-333333?style=flat&logo=typescript" />
 <img src="https://img.shields.io/badge/-bootrstap.js-333333?style=flat&logo=bootstrap" />
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
 <img src="https://img.shields.io/badge/-sass.js-333333?style=flat&logo=sass" />
@@ -43,5 +37,4 @@
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" />
 <img src="https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm" />
 <img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" />
-   
 </section>
