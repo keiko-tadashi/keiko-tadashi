@@ -43,10 +43,5 @@
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" />
 <img src="https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm" />
 <img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" />
-   <br><br><br>
-   <div>
-   <a href="https://github.com/keiko-tadashi/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&card_width=850" />
-   </div>
-</a>
+   
 </section>
